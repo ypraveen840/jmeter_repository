@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="412" it="0" lt="411" ct="175" ts="1697522645783" s="true" lb="-1" rc="200" rm="OK" tn="" dt="text" de="" by="194" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-N94M2B99">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Cache-Control: max-age=600
+Content-Type: application/ocsp-response
+Date: Tue, 17 Oct 2023 06:04:05 GMT
+Server: ECAcc (sgc/56F5)
+Content-Length: 5
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: ocsp.digicert.com
+Content-Type: application/ocsp-request
+Cache-Control: no-cache
+Accept-Encoding: gzip, deflate
+Pragma: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0
+Accept: */*
+Content-Length: 130
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x6;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0Q0O0M0K0I0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;�㕢)����&#x1f;�&#xc;&#xb;N�	���&#x4;&#x14;�k�ꨪ��y��&#xf;��ŕv��&#x2;&#x10;&#x6;�&#x3;s�&#x6;C�&#x1e;�`�}&#x3;&#x0;</queryString>
+  <java.net.URL>http://ocsp.digicert.com/</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="incoming.telemetry.mozilla.org:443" rc="" rm="Software caused connection abort: recv failed&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1549" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-N94M2B99">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="fonts.googleapis.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="709" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-N94M2B99">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT fonts.googleapis.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="www.saucedemo.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="709" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-N94M2B99">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT www.saucedemo.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="www.saucedemo.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="709" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-N94M2B99">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT www.saucedemo.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="events.backtrace.io:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="709" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-N94M2B99">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT events.backtrace.io:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="events.backtrace.io:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="709" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-N94M2B99">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT events.backtrace.io:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="events.backtrace.io:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="709" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-N94M2B99">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT events.backtrace.io:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="events.backtrace.io:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="709" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-N94M2B99">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT events.backtrace.io:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="709" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-N94M2B99">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT getpocket.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="firefox.settings.services.mozilla.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="709" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-N94M2B99">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT firefox.settings.services.mozilla.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="events.backtrace.io:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="709" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-N94M2B99">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT events.backtrace.io:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="events.backtrace.io:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="709" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-N94M2B99">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT events.backtrace.io:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+
+
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="img-getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="709" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-N94M2B99">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT img-getpocket.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="img-getpocket.cdn.mozilla.net:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="709" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-N94M2B99">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT img-getpocket.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="the-internet.herokuapp.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="709" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-N94M2B99">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT the-internet.herokuapp.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="incoming.telemetry.mozilla.org:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="709" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-N94M2B99">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="incoming.telemetry.mozilla.org:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="709" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-N94M2B99">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="incoming.telemetry.mozilla.org:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="709" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-N94M2B99">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="incoming.telemetry.mozilla.org:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="709" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-N94M2B99">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="incoming.telemetry.mozilla.org:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="709" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-N94M2B99">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="incoming.telemetry.mozilla.org:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="709" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-N94M2B99">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<httpSample t="3493" it="0" lt="3444" ct="3108" ts="1697533999612" s="true" lb="login-33" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="3712" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-N94M2B99">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Report-To: {&quot;group&quot;:&quot;heroku-nel&quot;,&quot;max_age&quot;:3600,&quot;endpoints&quot;:[{&quot;url&quot;:&quot;https://nel.heroku.com/reports?ts=1697534002&amp;sid=c46efe9b-d3d2-4a0c-8c76-bfafa16c5add&amp;s=RVkO5AkW4SksNi372f0Ts7uAn51Wo%2BzVosuK0YOLsJs%3D&quot;}]}
+Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1697534002&amp;sid=c46efe9b-d3d2-4a0c-8c76-bfafa16c5add&amp;s=RVkO5AkW4SksNi372f0Ts7uAn51Wo%2BzVosuK0YOLsJs%3D
+Nel: {&quot;report_to&quot;:&quot;heroku-nel&quot;,&quot;max_age&quot;:3600,&quot;success_fraction&quot;:0.005,&quot;failure_fraction&quot;:0.05,&quot;response_headers&quot;:[&quot;Via&quot;]}
+Connection: close
+Content-Type: text/html;charset=utf-8
+Content-Length: 2376
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Server: WEBrick/1.6.0 (Ruby/2.7.2/2020-10-01)
+Date: Tue, 17 Oct 2023 09:13:22 GMT
+Set-Cookie: rack.session=BAh7CUkiD3Nlc3Npb25faWQGOgZFVEkiRWFjNjc2NDQ5YTZiZDA1YmE5NDYz%0AMzVkOTI2ODVkZTE1ZmE4ZTNiMjY4MDA2Y2I1ZjIwMmUzNDRmMjI2MjdmOTMG%0AOwBGSSIJY3NyZgY7AEZJIiU1NWRiYWUyYWY3NDkxMTQxMGE5NTBjMjU1ZWI1%0ANzcyNAY7AEZJIg10cmFja2luZwY7AEZ7B0kiFEhUVFBfVVNFUl9BR0VOVAY7%0AAFRJIi02MGY5MjBkNTJlNjMzNTJjY2IzODE3NzA0OGFmYjE2MTcyNzNiYjA3%0ABjsARkkiGUhUVFBfQUNDRVBUX0xBTkdVQUdFBjsAVEkiLWRkMDY1ZWQyNjNj%0ANjdkNzk5Zjk0M2FiNmMzOWI1NWM1ZTAwOGNiYjUGOwBGSSIKZmxhc2gGOwBG%0AewA%3D%0A--14e3954a2f47ccd033eda6d6b87428a8c109c0ba; path=/; HttpOnly
+Via: 1.1 vegur
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Accept-Language: en-US,en;q=0.5
+Host: the-internet.herokuapp.com
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-User: ?1
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Sec-Fetch-Dest: document
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!DOCTYPE html&gt;
+&lt;!--[if IE 8]&gt;         &lt;html class=&quot;no-js lt-ie9&quot; lang=&quot;en&quot; &gt; &lt;![endif]--&gt;
+&lt;!--[if gt IE 8]&gt;&lt;!--&gt; &lt;html class=&quot;no-js&quot; lang=&quot;en&quot; &gt; &lt;!--&lt;![endif]--&gt;
+
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;script src=&quot;/js/vendor/298279967.js&quot;&gt;&lt;/script&gt;
+    &lt;meta charset=&quot;utf-8&quot; /&gt;
+    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
+    &lt;title&gt;The Internet&lt;/title&gt;
+    &lt;link href=&quot;/css/app.css&quot; rel=&quot;stylesheet&quot;&gt;
+    &lt;link href=&quot;/css/font-awesome.css&quot; rel=&quot;stylesheet&quot;&gt;
+    &lt;script src=&quot;/js/vendor/jquery-1.11.3.min.js&quot;&gt;&lt;/script&gt;
+    &lt;script src=&quot;/js/vendor/jquery-ui-1.11.4/jquery-ui.js&quot;&gt;&lt;/script&gt;
+    &lt;script src=&quot;/js/foundation/foundation.js&quot;&gt;&lt;/script&gt;
+    &lt;script src=&quot;/js/foundation/foundation.alerts.js&quot;&gt;&lt;/script&gt;
+    &lt;script&gt;
+      $(document).foundation();
+    &lt;/script&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;div class=&quot;row&quot;&gt;
+      &lt;div id=&quot;flash-messages&quot; class=&quot;large-12 columns&quot;&gt;
+      
+        
+      
+        
+      
+        
+      
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;row&quot;&gt;
+      &lt;a href=&quot;https://github.com/tourdedave/the-internet&quot;&gt;&lt;img style=&quot;position: absolute; top: 0; right: 0; border: 0;&quot; src=&quot;/img/forkme_right_green_007200.png&quot; alt=&quot;Fork me on GitHub&quot;&gt;&lt;/a&gt;
+      &lt;div id=&quot;content&quot; class=&quot;large-12 columns&quot;&gt;
+        &lt;div class=&quot;example&quot;&gt;
+  &lt;h2&gt;Login Page&lt;/h2&gt;
+  &lt;h4 class=&quot;subheader&quot;&gt;This is where you can log into the secure area. Enter &lt;em&gt;tomsmith&lt;/em&gt; for the username and &lt;em&gt;SuperSecretPassword!&lt;/em&gt; for the password. If the information is wrong you should see error messages.&lt;/h4&gt;
+  &lt;form name=&quot;login&quot; id=&quot;login&quot; action=&quot;/authenticate&quot; method=&quot;post&quot; &gt;
+     &lt;div class=&quot;row&quot;&gt;
+      &lt;div class=&quot;large-6 small-12 columns&quot;&gt;
+        &lt;label for=&quot;username&quot;&gt;Username&lt;/label&gt;
+        &lt;input type=&quot;text&quot; name=&quot;username&quot; id=&quot;username&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;row&quot;&gt;
+      &lt;div class=&quot;large-6 small-12 columns&quot;&gt;
+        &lt;label for=&quot;password&quot;&gt;Password&lt;/label&gt;
+        &lt;input type=&quot;password&quot; name=&quot;password&quot; id=&quot;password&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+      &lt;button class=&quot;radius&quot; type=&quot;submit&quot;&gt;&lt;i class=&quot;fa fa-2x fa-sign-in&quot;&gt; Login&lt;/i&gt;&lt;/button&gt;
+  &lt;/form&gt;
+&lt;/div&gt;
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div id=&apos;page-footer&apos; class=&quot;row&quot;&gt;
+      &lt;div class=&quot;large-4 large-centered columns&quot;&gt;
+        &lt;hr&gt;
+        &lt;div style=&quot;text-align: center;&quot;&gt;Powered by &lt;a target=&quot;_blank&quot; href=&quot;http://elementalselenium.com/&quot;&gt;Elemental Selenium&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://the-internet.herokuapp.com/login</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="298279967.log.optimizely.com:443" rc="" rm="Unable to negotiate SSL transaction, no keystore?" tn="" dt="" de="" by="215" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-N94M2B99">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT 298279967.log.optimizely.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="298279967.log.optimizely.com:443" rc="" rm="Unable to negotiate SSL transaction, no keystore?" tn="" dt="" de="" by="215" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-N94M2B99">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT 298279967.log.optimizely.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<httpSample t="3048" it="0" lt="3048" ct="2724" ts="1697534031996" s="true" lb="login-50" rc="303" rm="See Other" tn="" dt="text" de="utf-8" by="989" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-N94M2B99">
+  <responseHeader class="java.lang.String">HTTP/1.1 303 See Other
+Connection: close
+Content-Type: text/html;charset=utf-8
+Location: https://the-internet.herokuapp.com/secure
+Content-Length: 0
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Server: WEBrick/1.6.0 (Ruby/2.7.2/2020-10-01)
+Date: Tue, 17 Oct 2023 09:13:54 GMT
+Set-Cookie: rack.session=BAh7CkkiD3Nlc3Npb25faWQGOgZFVEkiRWFjNjc2NDQ5YTZiZDA1YmE5NDYz%0AMzVkOTI2ODVkZTE1ZmE4ZTNiMjY4MDA2Y2I1ZjIwMmUzNDRmMjI2MjdmOTMG%0AOwBGSSIJY3NyZgY7AEZJIiU1NWRiYWUyYWY3NDkxMTQxMGE5NTBjMjU1ZWI1%0ANzcyNAY7AEZJIg10cmFja2luZwY7AEZ7B0kiFEhUVFBfVVNFUl9BR0VOVAY7%0AAFRJIi02MGY5MjBkNTJlNjMzNTJjY2IzODE3NzA0OGFmYjE2MTcyNzNiYjA3%0ABjsARkkiGUhUVFBfQUNDRVBUX0xBTkdVQUdFBjsAVEkiLWRkMDY1ZWQyNjNj%0ANjdkNzk5Zjk0M2FiNmMzOWI1NWM1ZTAwOGNiYjUGOwBGSSIKZmxhc2gGOwBG%0AewY6DHN1Y2Nlc3NJIiNZb3UgbG9nZ2VkIGludG8gYSBzZWN1cmUgYXJlYSEG%0AOwBUSSINdXNlcm5hbWUGOwBGSSINdG9tc21pdGgGOwBU%0A--e6c8300ab1ec8243c11302372e6f7af91ce7495d; path=/; HttpOnly
+Via: 1.1 vegur
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: navigate
+Referer: https://the-internet.herokuapp.com/login
+Sec-Fetch-Site: same-origin
+Accept-Language: en-US,en;q=0.5
+Origin: https://the-internet.herokuapp.com
+Sec-Fetch-User: ?1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Host: the-internet.herokuapp.com
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0
+Sec-Fetch-Dest: document
+Content-Length: 49
+</requestHeader>
+  <responseData class="java.lang.String"></responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">rack.session=BAh7CUkiD3Nlc3Npb25faWQGOgZFVEkiRWFjNjc2NDQ5YTZiZDA1YmE5NDYz%0AMzVkOTI2ODVkZTE1ZmE4ZTNiMjY4MDA2Y2I1ZjIwMmUzNDRmMjI2MjdmOTMG%0AOwBGSSIJY3NyZgY7AEZJIiU1NWRiYWUyYWY3NDkxMTQxMGE5NTBjMjU1ZWI1%0ANzcyNAY7AEZJIg10cmFja2luZwY7AEZ7B0kiFEhUVFBfVVNFUl9BR0VOVAY7%0AAFRJIi02MGY5MjBkNTJlNjMzNTJjY2IzODE3NzA0OGFmYjE2MTcyNzNiYjA3%0ABjsARkkiGUhUVFBfQUNDRVBUX0xBTkdVQUdFBjsAVEkiLWRkMDY1ZWQyNjNj%0ANjdkNzk5Zjk0M2FiNmMzOWI1NWM1ZTAwOGNiYjUGOwBGSSIKZmxhc2gGOwBG%0AewA%3D%0A--14e3954a2f47ccd033eda6d6b87428a8c109c0ba; optimizelySegments=%7B%7D; optimizelyEndUserId=oeu1697534011241r0.9003441291014886; optimizelyBuckets=%7B%7D; optimizelyPendingLogEvents=%5B%22n%3Dengagement%26g%3D298283957%26u%3Doeu1697534011241r0.9003441291014886%26wxhr%3Dtrue%26t%3D1697534017635%26f%3D298349752%2C318188263%22%2C%22n%3Dhttps%253A%252F%252Fthe-internet.herokuapp.com%252Flogin%26u%3Doeu1697534011241r0.9003441291014886%26wxhr%3Dtrue%26t%3D1697534011246%26f%3D298349752%2C318188263%22%5D</cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">username=tomsmith&amp;password=SuperSecretPassword%21</queryString>
+  <redirectLocation class="java.lang.String">https://the-internet.herokuapp.com/secure</redirectLocation>
+  <java.net.URL>https://the-internet.herokuapp.com/authenticate</java.net.URL>
+</httpSample>
+<httpSample t="1600" it="0" lt="1599" ct="1029" ts="1697534035447" s="true" lb="login-51" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="3354" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-N94M2B99">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Report-To: {&quot;group&quot;:&quot;heroku-nel&quot;,&quot;max_age&quot;:3600,&quot;endpoints&quot;:[{&quot;url&quot;:&quot;https://nel.heroku.com/reports?ts=1697534036&amp;sid=c46efe9b-d3d2-4a0c-8c76-bfafa16c5add&amp;s=sYgCJk%2F6f1auCnRzJ1o30s4NX14MBDb00B%2FyrgNCldg%3D&quot;}]}
+Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1697534036&amp;sid=c46efe9b-d3d2-4a0c-8c76-bfafa16c5add&amp;s=sYgCJk%2F6f1auCnRzJ1o30s4NX14MBDb00B%2FyrgNCldg%3D
+Nel: {&quot;report_to&quot;:&quot;heroku-nel&quot;,&quot;max_age&quot;:3600,&quot;success_fraction&quot;:0.005,&quot;failure_fraction&quot;:0.05,&quot;response_headers&quot;:[&quot;Via&quot;]}
+Connection: close
+Content-Type: text/html;charset=utf-8
+Content-Length: 1974
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Server: WEBrick/1.6.0 (Ruby/2.7.2/2020-10-01)
+Date: Tue, 17 Oct 2023 09:13:56 GMT
+Set-Cookie: rack.session=BAh7CkkiD3Nlc3Npb25faWQGOgZFVEkiRWFjNjc2NDQ5YTZiZDA1YmE5NDYz%0AMzVkOTI2ODVkZTE1ZmE4ZTNiMjY4MDA2Y2I1ZjIwMmUzNDRmMjI2MjdmOTMG%0AOwBGSSIJY3NyZgY7AEZJIiU1NWRiYWUyYWY3NDkxMTQxMGE5NTBjMjU1ZWI1%0ANzcyNAY7AEZJIg10cmFja2luZwY7AEZ7B0kiFEhUVFBfVVNFUl9BR0VOVAY7%0AAFRJIi02MGY5MjBkNTJlNjMzNTJjY2IzODE3NzA0OGFmYjE2MTcyNzNiYjA3%0ABjsARkkiGUhUVFBfQUNDRVBUX0xBTkdVQUdFBjsAVEkiLWRkMDY1ZWQyNjNj%0ANjdkNzk5Zjk0M2FiNmMzOWI1NWM1ZTAwOGNiYjUGOwBGSSIKZmxhc2gGOwBG%0AewBJIg11c2VybmFtZQY7AEZJIg10b21zbWl0aAY7AFQ%3D%0A--436a44bd44d8ee7000cf1d87f3732af1a1aa0a27; path=/; HttpOnly
+Via: 1.1 vegur
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: navigate
+Referer: https://the-internet.herokuapp.com/login
+Sec-Fetch-Site: same-origin
+Accept-Language: en-US,en;q=0.5
+Sec-Fetch-User: ?1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Host: the-internet.herokuapp.com
+Upgrade-Insecure-Requests: 1
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0
+Sec-Fetch-Dest: document
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!DOCTYPE html&gt;
+&lt;!--[if IE 8]&gt;         &lt;html class=&quot;no-js lt-ie9&quot; lang=&quot;en&quot; &gt; &lt;![endif]--&gt;
+&lt;!--[if gt IE 8]&gt;&lt;!--&gt; &lt;html class=&quot;no-js&quot; lang=&quot;en&quot; &gt; &lt;!--&lt;![endif]--&gt;
+
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;script src=&quot;/js/vendor/298279967.js&quot;&gt;&lt;/script&gt;
+    &lt;meta charset=&quot;utf-8&quot; /&gt;
+    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
+    &lt;title&gt;The Internet&lt;/title&gt;
+    &lt;link href=&quot;/css/app.css&quot; rel=&quot;stylesheet&quot;&gt;
+    &lt;link href=&quot;/css/font-awesome.css&quot; rel=&quot;stylesheet&quot;&gt;
+    &lt;script src=&quot;/js/vendor/jquery-1.11.3.min.js&quot;&gt;&lt;/script&gt;
+    &lt;script src=&quot;/js/vendor/jquery-ui-1.11.4/jquery-ui.js&quot;&gt;&lt;/script&gt;
+    &lt;script src=&quot;/js/foundation/foundation.js&quot;&gt;&lt;/script&gt;
+    &lt;script src=&quot;/js/foundation/foundation.alerts.js&quot;&gt;&lt;/script&gt;
+    &lt;script&gt;
+      $(document).foundation();
+    &lt;/script&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;div class=&quot;row&quot;&gt;
+      &lt;div id=&quot;flash-messages&quot; class=&quot;large-12 columns&quot;&gt;
+      
+        
+      
+        
+      
+        
+          &lt;div data-alert id=&apos;flash&apos; class=&apos;flash success&apos;&gt;
+            You logged into a secure area!
+            &lt;a href=&quot;#&quot; class=&quot;close&quot;&gt;&amp;times;&lt;/a&gt;
+          &lt;/div&gt;
+        
+      
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;row&quot;&gt;
+      &lt;a href=&quot;https://github.com/tourdedave/the-internet&quot;&gt;&lt;img style=&quot;position: absolute; top: 0; right: 0; border: 0;&quot; src=&quot;/img/forkme_right_green_007200.png&quot; alt=&quot;Fork me on GitHub&quot;&gt;&lt;/a&gt;
+      &lt;div id=&quot;content&quot; class=&quot;large-12 columns&quot;&gt;
+        &lt;div class=&quot;example&quot;&gt;
+  &lt;h2&gt;&lt;i class=&quot;icon-lock&quot;&gt;&lt;/i&gt; Secure Area&lt;/h2&gt;
+    &lt;h4 class=&quot;subheader&quot;&gt;Welcome to the Secure Area. When you are done click logout below.&lt;/h4&gt;
+  &lt;a class=&quot;button secondary radius&quot; href=&quot;/logout&quot;&gt;&lt;i class=&quot;icon-2x icon-signout&quot;&gt; Logout&lt;/i&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div id=&apos;page-footer&apos; class=&quot;row&quot;&gt;
+      &lt;div class=&quot;large-4 large-centered columns&quot;&gt;
+        &lt;hr&gt;
+        &lt;div style=&quot;text-align: center;&quot;&gt;Powered by &lt;a target=&quot;_blank&quot; href=&quot;http://elementalselenium.com/&quot;&gt;Elemental Selenium&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">rack.session=BAh7CkkiD3Nlc3Npb25faWQGOgZFVEkiRWFjNjc2NDQ5YTZiZDA1YmE5NDYz%0AMzVkOTI2ODVkZTE1ZmE4ZTNiMjY4MDA2Y2I1ZjIwMmUzNDRmMjI2MjdmOTMG%0AOwBGSSIJY3NyZgY7AEZJIiU1NWRiYWUyYWY3NDkxMTQxMGE5NTBjMjU1ZWI1%0ANzcyNAY7AEZJIg10cmFja2luZwY7AEZ7B0kiFEhUVFBfVVNFUl9BR0VOVAY7%0AAFRJIi02MGY5MjBkNTJlNjMzNTJjY2IzODE3NzA0OGFmYjE2MTcyNzNiYjA3%0ABjsARkkiGUhUVFBfQUNDRVBUX0xBTkdVQUdFBjsAVEkiLWRkMDY1ZWQyNjNj%0ANjdkNzk5Zjk0M2FiNmMzOWI1NWM1ZTAwOGNiYjUGOwBGSSIKZmxhc2gGOwBG%0AewY6DHN1Y2Nlc3NJIiNZb3UgbG9nZ2VkIGludG8gYSBzZWN1cmUgYXJlYSEG%0AOwBUSSINdXNlcm5hbWUGOwBGSSINdG9tc21pdGgGOwBU%0A--e6c8300ab1ec8243c11302372e6f7af91ce7495d; optimizelySegments=%7B%7D; optimizelyEndUserId=oeu1697534011241r0.9003441291014886; optimizelyBuckets=%7B%7D</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://the-internet.herokuapp.com/secure</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="298279967.log.optimizely.com:443" rc="" rm="Unable to negotiate SSL transaction, no keystore?" tn="" dt="" de="" by="215" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-N94M2B99">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT 298279967.log.optimizely.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="298279967.log.optimizely.com:443" rc="" rm="Unable to negotiate SSL transaction, no keystore?" tn="" dt="" de="" by="215" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-N94M2B99">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT 298279967.log.optimizely.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<httpSample t="5017" it="0" lt="5017" ct="4700" ts="1697534050346" s="true" lb="logout-55" rc="302" rm="Found" tn="" dt="text" de="utf-8" by="956" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-N94M2B99">
+  <responseHeader class="java.lang.String">HTTP/1.1 302 Found
+Connection: close
+Content-Type: text/html;charset=utf-8
+Location: https://the-internet.herokuapp.com/login
+Content-Length: 0
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Server: WEBrick/1.6.0 (Ruby/2.7.2/2020-10-01)
+Date: Tue, 17 Oct 2023 09:14:14 GMT
+Set-Cookie: rack.session=BAh7CUkiD3Nlc3Npb25faWQGOgZFVEkiRWFjNjc2NDQ5YTZiZDA1YmE5NDYz%0AMzVkOTI2ODVkZTE1ZmE4ZTNiMjY4MDA2Y2I1ZjIwMmUzNDRmMjI2MjdmOTMG%0AOwBGSSIJY3NyZgY7AEZJIiU1NWRiYWUyYWY3NDkxMTQxMGE5NTBjMjU1ZWI1%0ANzcyNAY7AEZJIg10cmFja2luZwY7AEZ7B0kiFEhUVFBfVVNFUl9BR0VOVAY7%0AAFRJIi02MGY5MjBkNTJlNjMzNTJjY2IzODE3NzA0OGFmYjE2MTcyNzNiYjA3%0ABjsARkkiGUhUVFBfQUNDRVBUX0xBTkdVQUdFBjsAVEkiLWRkMDY1ZWQyNjNj%0ANjdkNzk5Zjk0M2FiNmMzOWI1NWM1ZTAwOGNiYjUGOwBGSSIKZmxhc2gGOwBG%0AewY6DHN1Y2Nlc3NJIidZb3UgbG9nZ2VkIG91dCBvZiB0aGUgc2VjdXJlIGFy%0AZWEhBjsAVA%3D%3D%0A--5fbdbba399c4abe8b0357ab041338984432af0ce; path=/; HttpOnly
+Via: 1.1 vegur
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: navigate
+Referer: https://the-internet.herokuapp.com/secure
+Sec-Fetch-Site: same-origin
+Accept-Language: en-US,en;q=0.5
+Sec-Fetch-User: ?1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Host: the-internet.herokuapp.com
+Upgrade-Insecure-Requests: 1
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0
+Sec-Fetch-Dest: document
+</requestHeader>
+  <responseData class="java.lang.String"></responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">rack.session=BAh7CkkiD3Nlc3Npb25faWQGOgZFVEkiRWFjNjc2NDQ5YTZiZDA1YmE5NDYz%0AMzVkOTI2ODVkZTE1ZmE4ZTNiMjY4MDA2Y2I1ZjIwMmUzNDRmMjI2MjdmOTMG%0AOwBGSSIJY3NyZgY7AEZJIiU1NWRiYWUyYWY3NDkxMTQxMGE5NTBjMjU1ZWI1%0ANzcyNAY7AEZJIg10cmFja2luZwY7AEZ7B0kiFEhUVFBfVVNFUl9BR0VOVAY7%0AAFRJIi02MGY5MjBkNTJlNjMzNTJjY2IzODE3NzA0OGFmYjE2MTcyNzNiYjA3%0ABjsARkkiGUhUVFBfQUNDRVBUX0xBTkdVQUdFBjsAVEkiLWRkMDY1ZWQyNjNj%0ANjdkNzk5Zjk0M2FiNmMzOWI1NWM1ZTAwOGNiYjUGOwBGSSIKZmxhc2gGOwBG%0AewBJIg11c2VybmFtZQY7AEZJIg10b21zbWl0aAY7AFQ%3D%0A--436a44bd44d8ee7000cf1d87f3732af1a1aa0a27; optimizelySegments=%7B%7D; optimizelyEndUserId=oeu1697534011241r0.9003441291014886; optimizelyBuckets=%7B%7D; optimizelyPendingLogEvents=%5B%22n%3Dengagement%26g%3D298283957%26u%3Doeu1697534011241r0.9003441291014886%26wxhr%3Dtrue%26t%3D1697534049882%26f%3D298349752%2C318188263%22%2C%22n%3Dhttps%253A%252F%252Fthe-internet.herokuapp.com%252Fsecure%26u%3Doeu1697534011241r0.9003441291014886%26wxhr%3Dtrue%26t%3D1697534037358%26f%3D298349752%2C318188263%22%5D</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <redirectLocation class="java.lang.String">https://the-internet.herokuapp.com/login</redirectLocation>
+  <java.net.URL>https://the-internet.herokuapp.com/logout</java.net.URL>
+</httpSample>
+<httpSample t="1221" it="0" lt="1219" ct="919" ts="1697534055715" s="true" lb="logout-56" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="3903" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-N94M2B99">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Report-To: {&quot;group&quot;:&quot;heroku-nel&quot;,&quot;max_age&quot;:3600,&quot;endpoints&quot;:[{&quot;url&quot;:&quot;https://nel.heroku.com/reports?ts=1697534056&amp;sid=c46efe9b-d3d2-4a0c-8c76-bfafa16c5add&amp;s=e6lkz%2Fzkt3VwmliM28%2BK7IuRyfmGfxIU1%2FTroFkHH2M%3D&quot;}]}
+Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1697534056&amp;sid=c46efe9b-d3d2-4a0c-8c76-bfafa16c5add&amp;s=e6lkz%2Fzkt3VwmliM28%2BK7IuRyfmGfxIU1%2FTroFkHH2M%3D
+Nel: {&quot;report_to&quot;:&quot;heroku-nel&quot;,&quot;max_age&quot;:3600,&quot;success_fraction&quot;:0.005,&quot;failure_fraction&quot;:0.05,&quot;response_headers&quot;:[&quot;Via&quot;]}
+Connection: close
+Content-Type: text/html;charset=utf-8
+Content-Length: 2559
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Server: WEBrick/1.6.0 (Ruby/2.7.2/2020-10-01)
+Date: Tue, 17 Oct 2023 09:14:16 GMT
+Set-Cookie: rack.session=BAh7CUkiD3Nlc3Npb25faWQGOgZFVEkiRWFjNjc2NDQ5YTZiZDA1YmE5NDYz%0AMzVkOTI2ODVkZTE1ZmE4ZTNiMjY4MDA2Y2I1ZjIwMmUzNDRmMjI2MjdmOTMG%0AOwBGSSIJY3NyZgY7AEZJIiU1NWRiYWUyYWY3NDkxMTQxMGE5NTBjMjU1ZWI1%0ANzcyNAY7AEZJIg10cmFja2luZwY7AEZ7B0kiFEhUVFBfVVNFUl9BR0VOVAY7%0AAFRJIi02MGY5MjBkNTJlNjMzNTJjY2IzODE3NzA0OGFmYjE2MTcyNzNiYjA3%0ABjsARkkiGUhUVFBfQUNDRVBUX0xBTkdVQUdFBjsAVEkiLWRkMDY1ZWQyNjNj%0ANjdkNzk5Zjk0M2FiNmMzOWI1NWM1ZTAwOGNiYjUGOwBGSSIKZmxhc2gGOwBG%0AewA%3D%0A--14e3954a2f47ccd033eda6d6b87428a8c109c0ba; path=/; HttpOnly
+Via: 1.1 vegur
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: navigate
+Referer: https://the-internet.herokuapp.com/secure
+Sec-Fetch-Site: same-origin
+Accept-Language: en-US,en;q=0.5
+Sec-Fetch-User: ?1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Host: the-internet.herokuapp.com
+Upgrade-Insecure-Requests: 1
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0
+Sec-Fetch-Dest: document
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!DOCTYPE html&gt;
+&lt;!--[if IE 8]&gt;         &lt;html class=&quot;no-js lt-ie9&quot; lang=&quot;en&quot; &gt; &lt;![endif]--&gt;
+&lt;!--[if gt IE 8]&gt;&lt;!--&gt; &lt;html class=&quot;no-js&quot; lang=&quot;en&quot; &gt; &lt;!--&lt;![endif]--&gt;
+
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;script src=&quot;/js/vendor/298279967.js&quot;&gt;&lt;/script&gt;
+    &lt;meta charset=&quot;utf-8&quot; /&gt;
+    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
+    &lt;title&gt;The Internet&lt;/title&gt;
+    &lt;link href=&quot;/css/app.css&quot; rel=&quot;stylesheet&quot;&gt;
+    &lt;link href=&quot;/css/font-awesome.css&quot; rel=&quot;stylesheet&quot;&gt;
+    &lt;script src=&quot;/js/vendor/jquery-1.11.3.min.js&quot;&gt;&lt;/script&gt;
+    &lt;script src=&quot;/js/vendor/jquery-ui-1.11.4/jquery-ui.js&quot;&gt;&lt;/script&gt;
+    &lt;script src=&quot;/js/foundation/foundation.js&quot;&gt;&lt;/script&gt;
+    &lt;script src=&quot;/js/foundation/foundation.alerts.js&quot;&gt;&lt;/script&gt;
+    &lt;script&gt;
+      $(document).foundation();
+    &lt;/script&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;div class=&quot;row&quot;&gt;
+      &lt;div id=&quot;flash-messages&quot; class=&quot;large-12 columns&quot;&gt;
+      
+        
+      
+        
+      
+        
+          &lt;div data-alert id=&apos;flash&apos; class=&apos;flash success&apos;&gt;
+            You logged out of the secure area!
+            &lt;a href=&quot;#&quot; class=&quot;close&quot;&gt;&amp;times;&lt;/a&gt;
+          &lt;/div&gt;
+        
+      
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;row&quot;&gt;
+      &lt;a href=&quot;https://github.com/tourdedave/the-internet&quot;&gt;&lt;img style=&quot;position: absolute; top: 0; right: 0; border: 0;&quot; src=&quot;/img/forkme_right_green_007200.png&quot; alt=&quot;Fork me on GitHub&quot;&gt;&lt;/a&gt;
+      &lt;div id=&quot;content&quot; class=&quot;large-12 columns&quot;&gt;
+        &lt;div class=&quot;example&quot;&gt;
+  &lt;h2&gt;Login Page&lt;/h2&gt;
+  &lt;h4 class=&quot;subheader&quot;&gt;This is where you can log into the secure area. Enter &lt;em&gt;tomsmith&lt;/em&gt; for the username and &lt;em&gt;SuperSecretPassword!&lt;/em&gt; for the password. If the information is wrong you should see error messages.&lt;/h4&gt;
+  &lt;form name=&quot;login&quot; id=&quot;login&quot; action=&quot;/authenticate&quot; method=&quot;post&quot; &gt;
+     &lt;div class=&quot;row&quot;&gt;
+      &lt;div class=&quot;large-6 small-12 columns&quot;&gt;
+        &lt;label for=&quot;username&quot;&gt;Username&lt;/label&gt;
+        &lt;input type=&quot;text&quot; name=&quot;username&quot; id=&quot;username&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;row&quot;&gt;
+      &lt;div class=&quot;large-6 small-12 columns&quot;&gt;
+        &lt;label for=&quot;password&quot;&gt;Password&lt;/label&gt;
+        &lt;input type=&quot;password&quot; name=&quot;password&quot; id=&quot;password&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+      &lt;button class=&quot;radius&quot; type=&quot;submit&quot;&gt;&lt;i class=&quot;fa fa-2x fa-sign-in&quot;&gt; Login&lt;/i&gt;&lt;/button&gt;
+  &lt;/form&gt;
+&lt;/div&gt;
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div id=&apos;page-footer&apos; class=&quot;row&quot;&gt;
+      &lt;div class=&quot;large-4 large-centered columns&quot;&gt;
+        &lt;hr&gt;
+        &lt;div style=&quot;text-align: center;&quot;&gt;Powered by &lt;a target=&quot;_blank&quot; href=&quot;http://elementalselenium.com/&quot;&gt;Elemental Selenium&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">rack.session=BAh7CUkiD3Nlc3Npb25faWQGOgZFVEkiRWFjNjc2NDQ5YTZiZDA1YmE5NDYz%0AMzVkOTI2ODVkZTE1ZmE4ZTNiMjY4MDA2Y2I1ZjIwMmUzNDRmMjI2MjdmOTMG%0AOwBGSSIJY3NyZgY7AEZJIiU1NWRiYWUyYWY3NDkxMTQxMGE5NTBjMjU1ZWI1%0ANzcyNAY7AEZJIg10cmFja2luZwY7AEZ7B0kiFEhUVFBfVVNFUl9BR0VOVAY7%0AAFRJIi02MGY5MjBkNTJlNjMzNTJjY2IzODE3NzA0OGFmYjE2MTcyNzNiYjA3%0ABjsARkkiGUhUVFBfQUNDRVBUX0xBTkdVQUdFBjsAVEkiLWRkMDY1ZWQyNjNj%0ANjdkNzk5Zjk0M2FiNmMzOWI1NWM1ZTAwOGNiYjUGOwBGSSIKZmxhc2gGOwBG%0AewY6DHN1Y2Nlc3NJIidZb3UgbG9nZ2VkIG91dCBvZiB0aGUgc2VjdXJlIGFy%0AZWEhBjsAVA%3D%3D%0A--5fbdbba399c4abe8b0357ab041338984432af0ce; optimizelySegments=%7B%7D; optimizelyEndUserId=oeu1697534011241r0.9003441291014886; optimizelyBuckets=%7B%7D; optimizelyPendingLogEvents=%5B%22n%3Dengagement%26g%3D298283957%26u%3Doeu1697534011241r0.9003441291014886%26wxhr%3Dtrue%26t%3D1697534049882%26f%3D298349752%2C318188263%22%2C%22n%3Dhttps%253A%252F%252Fthe-internet.herokuapp.com%252Fsecure%26u%3Doeu1697534011241r0.9003441291014886%26wxhr%3Dtrue%26t%3D1697534037358%26f%3D298349752%2C318188263%22%5D</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://the-internet.herokuapp.com/login</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="298279967.log.optimizely.com:443" rc="" rm="Unable to negotiate SSL transaction, no keystore?" tn="" dt="" de="" by="215" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-N94M2B99">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT 298279967.log.optimizely.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="298279967.log.optimizely.com:443" rc="" rm="Unable to negotiate SSL transaction, no keystore?" tn="" dt="" de="" by="215" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-N94M2B99">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT 298279967.log.optimizely.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+
+
+
+
+
+
+
+</testResults>
